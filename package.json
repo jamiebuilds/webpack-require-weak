@@ -1,0 +1,15 @@
+{
+  "name": "webpack-require-weak",
+  "version": "0.0.0",
+  "description": "Require a webpack resolveWeak id",
+  "main": "index.js",
+  "repository": "thejameskyle/universal-webpack-require",
+  "author": "James Kyle <me@thejameskyle.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "flow-bin": "^0.48.0"
+  },
+  "dependencies": {
+    "is-webpack-bundle": "^1.0.0"
+  }
+}
